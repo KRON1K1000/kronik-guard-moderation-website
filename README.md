@@ -16,5 +16,6 @@ guard botuma moderation sistemi yazdım ve aynı zamanda web sitesi yazdım web 
 # NOT
 WEB SİTE İLE BİRLİKTE GUARD İÇERİSİNDE BULUNAN & MODERATİON SİSTEMİ SATILIKTIR İLGİLENENLER DİSCORD PROFİLİM AŞAĞIDA MEVCUT MESAJ ATIP SADECE BENDEN SATIN ALABİLİRSİNİZ.
 
+[![Discord Profilim](https://lanyard.cnrad.dev/api/1108498175653859358)](https://discord.com/users/1108498175653859358)&nbsp;
 
 # Copyright © 2024. Her Hakkı Saklıdır.
